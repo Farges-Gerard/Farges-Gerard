@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GerardFX
 
-- 🌱 I’m currently learning to use GitHub, but prsently account flagged (for not yet known reasons...).
+- 🌱 I’m currently learning to use GitHub (account no more flagged...).
 
 
 <!---
